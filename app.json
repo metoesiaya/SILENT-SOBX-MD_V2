@@ -116,7 +116,7 @@
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
-      "required": true,
+      "required": false,
       "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
     },
     "AUTO_REPLY_STATUS": {
