@@ -32,13 +32,13 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD-V2&description=🥂❤�
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD_V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/SILENTLOVER40?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?label=Followers&style=social"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD-V2?&style=social"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD-V2?style=social"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER40/SILENT-SOBX-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD_V2/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD_V2?&style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD_V2?style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER40/SILENT-SOBX-MD_V2?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD-V2?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD_V2?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER&color=pink&style=plastic" alt="Developer Badge">
 </p>
@@ -46,7 +46,7 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD-V2&description=🥂❤�
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD_V2/count.svg" /><br>SILENT-SOBX-MD-V2</div>
 
 ------------
 
@@ -59,16 +59,16 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD-V2&description=🥂❤�
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD_V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD-V2?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD_V2?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD-V2?style=social)
+![stars](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD_V2?style=social)
 
 
-[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER40/SILENT-SOBX-MD-V2/fork)
+[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER40/SILENT-SOBX-MD_V2/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
@@ -168,7 +168,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD_V2)
 
 ----------
 
@@ -178,7 +178,7 @@ href="https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7" target="_blank">
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD-V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD_V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -297,7 +297,7 @@ jobs:
 
 ------------
 
-![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD-V2?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD_V2?color=green&label=License&style=plastic)
 
 ----------
 
